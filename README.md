@@ -17,11 +17,6 @@ It is purely for **educational purposes** and does **not stream real content** o
 
 ---
 
-## 🔗 Live Demo
-[Click Here to View Live](https://m-streaming.vercel.app/)
-
----
-
 ## 🛠 Tech Stack
 - **HTML5**  
 - **CSS3** (Responsive Design, Flexbox, Grid)  
