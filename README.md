@@ -6,13 +6,6 @@ It is purely for **educational purposes** and does **not stream real content** o
 
 ---
 
-## 📷 Screenshots
-
-### Homepage
-![M-Streaming screenshot](https://github.com/user-attachments/assets/77276e4b-20dc-4f9f-8d9e-652cf89b3e82)
-
----
-
 ## ✅ Features
 - **Responsive UI** – Works across different screen sizes.
 - **Dark / Light Mode Toggle** – Switch themes dynamically.
@@ -28,6 +21,13 @@ It is purely for **educational purposes** and does **not stream real content** o
 - **HTML5**  
 - **CSS3** (Responsive Design, Flexbox, Grid)  
 - **JavaScript** (DOM Manipulation, Event Handling)  
+
+---
+
+## 📷 Screenshots
+
+### Homepage
+![M-Streaming screenshot](https://github.com/user-attachments/assets/77276e4b-20dc-4f9f-8d9e-652cf89b3e82)
 
 ---
 
